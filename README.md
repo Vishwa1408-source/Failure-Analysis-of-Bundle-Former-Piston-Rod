@@ -1,1 +1,2 @@
 # Failure-Analysis-of-Bundle-Former-Piston-Rod
+The failure analysis of bundle former piston rod with a detailed study of various reasons regarding the failures. The different approaches of design parameters are considered, and suitable regulation is specified. The present work compares the results of the theoretical design calculations against the experimental work. And an analysis will be done in ANSYS Software.
